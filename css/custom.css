@@ -1,0 +1,23 @@
+.attorna-logo .attorna-logo-inner {
+	max-width: 280px;
+}
+.attorna-animate-fixed-navigation.attorna-header-style-plain .attorna-logo-inner  {
+	max-width: 180px;
+/*	max-height: 75px !important;*/
+}
+.attorna-logo{
+	/*padding: 30px 20px;*/
+}
+
+
+
+
+
+
+
+@media (max-width:380px){
+#attorna-mobile-header .attorna-logo-inner img {
+	max-height: 55px !important;
+}
+
+}
